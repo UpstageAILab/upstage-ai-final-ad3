@@ -200,7 +200,7 @@ Accuracy Score 또한 리더보드에 참고용으로 제공되나, 등수 산�
 ### Meeting Log
 
 - 전체적인 내용은 [진행 Notion](https://sixth-drum-9ac.notion.site/Chemical-Process-Anomaly-Detection-dcc08017db8047a3a78e97ff96f66c1e?pvs=4), [간트차트](https://sixth-drum-9ac.notion.site/Final-d590cb0c11044d83a8d2a52459747117?pvs=4)에서 확인하실 수 있습니다.
-- Mar 8 ~ Mar 20 : Online Meeting
+- Apr 8 ~ May 2 : Online & Offline Meeting 
 
 ### Reference
 
