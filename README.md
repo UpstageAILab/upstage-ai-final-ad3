@@ -204,3 +204,4 @@ Accuracy Score 또한 리더보드에 참고용으로 제공되나, 등수 산�
 
 ### Reference
 
+1. [화학 공정 데이터 칼럼 정보](https://chemicalada.blogspot.com/2016/02/classification-of-variables-in-chemical.html)
