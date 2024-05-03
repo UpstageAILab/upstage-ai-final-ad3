@@ -1,7 +1,6 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/3DbKuh4a)
 
-# 효율적인 One-Class 이상치 탐지
-: 화학공정 데이터를 활용한 시각화
+# 효율적인 One-Class 이상치 탐지: 화학공정 데이터를 활용한 시각화
 
 ## Team
 
